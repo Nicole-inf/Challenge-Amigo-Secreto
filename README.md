@@ -5,10 +5,10 @@ Aplicación web sencilla que permite organizar un sorteo de **Amigo Secreto**.
 Los usuarios ingresan nombres en una lista y el sistema elige aleatoriamente un ganador.  
 
 ## ✨ Funcionalidades  
-- ➕ Agregar nombres a una lista visible.  
-- ✅ Validar que el campo no esté vacío antes de añadir.  
-- 📃 Mostrar los nombres ingresados en pantalla.  
-- 🎲 Realizar un sorteo aleatorio y mostrar el resultado.  
+- Agregar nombres a una lista visible.  
+- Validar que el campo no esté vacío antes de añadir.  
+- Mostrar los nombres ingresados en pantalla.  
+- Realizar un sorteo aleatorio y mostrar el resultado.  
 
 ## 🛠️ Uso  
 1. Clona o descarga el repositorio.  
