@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-📌 Descripción  
+**📌 Descripción**
 Aplicación web sencilla que permite organizar un sorteo de **Amigo Secreto**.  
 Los usuarios ingresan nombres en una lista y el sistema elige aleatoriamente un ganador.  
 
