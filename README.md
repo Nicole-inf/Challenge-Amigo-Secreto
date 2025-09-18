@@ -1,5 +1,4 @@
 # Amigo Secreto
-
 ## Descripción
 Este proyecto es una aplicación web desarrollada en JavaScript que permite realizar un sorteo de *Amigo Secreto*. Los usuarios pueden ingresar nombres en una lista y, mediante un sorteo aleatorio, se selecciona un participante como resultado.  
 
