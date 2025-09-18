@@ -19,4 +19,4 @@ Los usuarios ingresan nombres en una lista y el sistema elige aleatoriamente un 
 
 # ❓ Soporte  
 Si tienes problemas al ejecutar el proyecto:  
-- Verifica que los archivos `index.html`, `style.css` y `app.js` estén en la misma carpeta.
+- Verifica que los archivos index.html, style.css y app.js estén en la misma carpeta.
